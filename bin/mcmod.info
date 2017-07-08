@@ -1,0 +1,16 @@
+[
+{
+  "modid": "colores",
+  "name": "Colores",
+  "description": "Colourful ores, adds a way to get certain dyes from certain ores.",
+  "version": "R1.0",
+  "mcversion": "${mcversion}",
+  "url": "http://crystic.github.io/",
+  "updateUrl": "",
+  "authorList": ["Crystic"],
+  "credits": "The Forge and FML guys, for making Forge. Neale Gaming on YouTube for his tutorials.",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

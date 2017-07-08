@@ -1,0 +1,26 @@
+---// Blocks \\---
+
+tile.ore_BlackFossil.name=Black Fossil Ore
+tile.ore_BrownFossil.name=Brown Fossil Ore
+tile.ore_GreenFossil.name=Green Fossil Ore
+tile.ore_RedFossil.name=Red Fossil Ore
+tile.ore_WhiteFossil.name=White Fossil Ore
+tile.ore_YellowFossil.name=Yellow Fossil Ore
+
+tile.RainbowExtractorIdle.name=Dye Extractor
+tile.RainbowExtractorActive.name=Dye Extractor
+
+---// Items \\---
+
+item.itm_BlackFossil.name=Dye Fossil
+item.itm_BrownFossil.name=Dye Fossil
+item.itm_GreenFossil.name=Dye Fossil
+item.itm_RedFossil.name=Dye Fossil
+item.itm_YellowFossil.name=Dye Fossil
+item.itm_WhiteFossil.name=Dye Fossil
+
+item.itm_PortRainbowExt.name=Portable Dye Extractor
+item.itm_RainbowExtKit.name=Dye Extraction Kit
+
+---// Creative Tab \\---
+itemGroup.Colores=Colores
